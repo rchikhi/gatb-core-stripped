@@ -5,3 +5,4 @@ This is a lightweight and modified version of [gatb-core library](https://github
 ## Authors
 - [Rayan Chikhi](https://github.com/rchikhi)
 - [Teo Lemane](https://github.com/tlemane)  
+- GATB team
